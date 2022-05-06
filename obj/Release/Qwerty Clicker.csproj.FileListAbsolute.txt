@@ -1,0 +1,17 @@
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\bin\Release\Qwerty Clicker.exe.config
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\bin\Release\Qwerty Clicker.exe
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\bin\Release\Qwerty Clicker.pdb
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.csproj.AssemblyReference.cache
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.csproj.SuggestedBindingRedirects.cache
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty_Clicker.MainForm.resources
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty_Clicker.Properties.Resources.resources
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.csproj.GenerateResource.cache
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.csproj.CoreCompileInputs.cache
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.exe
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.pdb
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\bin\Release\Siticone.Desktop.UI.dll
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.csproj.CopyComplete
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\bin\Release\Qwerty Clicker.exe.manifest
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\bin\Release\Qwerty Clicker.application
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.exe.manifest
+C:\Users\SteMavoid11257\Desktop\Qwerty\Qwerty Clicker\obj\Release\Qwerty Clicker.application
