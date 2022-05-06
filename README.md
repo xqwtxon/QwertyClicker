@@ -4,7 +4,7 @@
 A homemade interface autoclicker using C# in Windows for Minecraft Bedrock & Java!
 
 # How to Install 🕹
-Download [QwertyClicker](https://github.com/xqwtxon/QwertyClicker/download/releases/latest/QwertyClicker.zip) and unzip the file and run `QwertyClicker.exe` and start read [wiki](/WIKI.md) for user guides!
+Download [QwertyClicker](https://github.com/xqwtxon/QwertyClicker/download/releases/latest/QwertyClicker.zip) and unzip the file and run `QwertyClicker.exe` and start read [wiki](/wiki/) for user guides!
 
 # Prerequites 🛠
 - A .NETFramework 4.0 or newer.
